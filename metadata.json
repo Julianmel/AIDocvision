@@ -1,0 +1,8 @@
+{
+  "name": "DocMiner AI",
+  "description": "Digitalize documentos com câmera/arquivos, extraia dados estruturados com IA Gemini, organize, faça datamining e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

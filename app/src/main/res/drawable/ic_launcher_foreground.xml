@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document background sheet -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M34,26 L64,26 L74,36 L74,80 C74,82.2 72.2,84 70,84 L34,84 C31.8,84 30,82.2 30,80 L30,30 C30,27.8 31.8,26 34,26 Z" />
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M64,26 L64,36 L74,36 Z" />
+    <!-- Document lines -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M38,44 L66,44 A2,2 0 0,0 66,40 L38,40 A2,2 0 0,0 38,44 Z M38,52 L60,52 A2,2 0 0,0 60,48 L38,48 A2,2 0 0,0 38,52 Z M38,60 L54,60 A2,2 0 0,0 54,56 L38,56 A2,2 0 0,0 38,60 Z" />
+    <!-- Laser Scan bar -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M26,50 L82,50 A2,2 0 0,0 82,46 L26,46 A2,2 0 0,0 26,50 Z" />
+    <!-- AI Sparkle / Star at top right -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M78,24 L80,28 L84,30 L80,32 L78,36 L76,32 L72,30 L76,28 Z" />
+    <!-- Magnifier / Data Mining lens -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M64,68 C64,63.6 67.6,60 72,60 C76.4,60 80,63.6 80,68 C80,72.4 76.4,76 72,76 C70.2,76 68.6,75.4 67.3,74.3 L60.7,80.9 C60.3,81.3 59.7,81.3 59.3,80.9 C58.9,80.5 58.9,79.9 59.3,79.5 L65.9,72.9 C64.7,71.5 64,69.9 64,68 Z M67,68 C67,70.8 69.2,73 72,73 C74.8,73 77,70.8 77,68 C77,65.2 74.8,63 72,63 C69.2,63 67,65.2 67,68 Z" />
+</vector>
+
