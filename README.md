@@ -1,4 +1,4 @@
-# DocMiner AI 📄🔍🤖
+# AIDocvision 📄🔍🤖
 
 > **Inteligência Artificial Multimodal, OCR Avançado e Mineração de Dados de Documentos para Android.**
 
