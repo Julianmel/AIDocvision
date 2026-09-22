@@ -2,7 +2,7 @@
 
 > **Inteligência Artificial Multimodal, OCR Avançado e Mineração de Dados de Documentos para Android.**
 
-O **DocMiner AI** é um aplicativo Android nativo desenvolvido em **Kotlin** e **Jetpack Compose**, projetado para digitalizar, estruturar, analisar e cruzar dados de documentos fiscais, contratos, comprovantes e faturas de forma automatizada, utilizando a tecnologia **Google Gemini**.
+O **AIDocvision** é um aplicativo Android nativo desenvolvido em **Kotlin** e **Jetpack Compose**, projetado para digitalizar, estruturar, analisar e cruzar dados de documentos fiscais, contratos, comprovantes e faturas de forma automatizada, utilizando a tecnologia **Google Gemini**.
 
 ---
 
